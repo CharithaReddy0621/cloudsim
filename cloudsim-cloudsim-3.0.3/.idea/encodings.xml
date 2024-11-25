@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/distribution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/distribution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/documentation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/documentation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/cloudsim-examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/cloudsim-examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/cloudsim/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/cloudsim/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudsim-cloudsim-3.0.3/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
